@@ -1,3 +1,8 @@
+---
+title: MoneyPup Privacy Policy
+layout: default
+---
+
 # MoneyPup 隱私權政策（Privacy Policy）
 
 更新日期：2025-01-01
