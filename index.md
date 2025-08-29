@@ -47,7 +47,7 @@ layout: default
 - 本政策可能更新。重大變更將於頁面公告或應用程式內提示。更新後繼續使用即表示你同意變更。
 
 11. 聯絡我們
-- 隱私相關問題請聯繫：privacy@yourdomain.example
+- 隱私相關問題請聯繫：sandboxemotionm@gmail.com
 
 — English Version —
 
@@ -95,4 +95,4 @@ We value your privacy. This policy explains how we handle information when you u
 - We may update this policy. Material changes will be announced on this page or in-app. Continued use constitutes consent.
 
 11. Contact
-- For privacy inquiries: privacy@yourdomain.example
+- For privacy inquiries: sandboxemotionm@gmail.com
