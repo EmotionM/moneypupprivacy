@@ -97,4 +97,4 @@ We value your privacy. This policy explains how we handle information when you u
 11. Contact
 - For privacy inquiries: contactemotionm@gmail.com
 
-- © 2025 Money Pup Development
+- © 2025 MoneyPup Development
