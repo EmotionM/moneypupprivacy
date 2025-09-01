@@ -1,6 +1,6 @@
 ---
 title: MoneyPup Privacy Policy
-layout: default
+layout: plain
 ---
 
 # MoneyPup 隱私權政策（Privacy Policy）
